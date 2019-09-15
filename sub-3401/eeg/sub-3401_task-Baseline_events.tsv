@@ -1,0 +1,15 @@
+onset	duration	sample	type	value
+0	0.004	1	trigger	onset
+2	0.004	1001	trigger	target
+4	0.004	2001	trigger	target
+6	0.004	3001	trigger	target
+8	0.004	4001	trigger	target
+10	0.004	5001	trigger	target
+12	0.004	6001	trigger	target
+14	0.004	7001	trigger	target
+16	0.004	8001	trigger	target
+18	0.004	9001	trigger	target
+20	0.004	10001	trigger	target
+22	0.004	11001	trigger	target
+24	0.004	12001	trigger	target
+26	0.004	13001	trigger	target
