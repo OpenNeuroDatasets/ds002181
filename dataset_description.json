@@ -1,5 +1,6 @@
 {
+	"Authors": "Wanze Xie and Chales A. Nelson and Colleagues"
 	"BIDSVersion": "1.2",
 	"License": "CC-BY",
-	"Name": "CRYPTO and PROVIDE EEG Baseline Data"
+	"Name": "CRYPTO and PROVIDE EEG Baseline Data",
 }
